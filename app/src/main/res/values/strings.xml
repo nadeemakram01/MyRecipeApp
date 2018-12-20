@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ReceipeApp</string>
+
+
+
+    <string name="food1" >Pizza</string>
+    <string name="ingredient1">Cheese, more cheese, pizza sauce, bread, meat</string>
+    <string name="description1">a square pizza with everthing on it</string>
+
+
+
+    <string name="food2" >Cokkies</string>
+    <string name="ingredient2">Chocolate, Choclate chips, flour, sugar,more sugar</string>
+    <string name="description2">Soft and warm choclate chip cookies</string>
+
+
+    <string name="food3">Curry</string>
+    <string name="ingredient3">Chicken, peas, rice, curry powder</string>
+    <string name="description3">An amazing dish that contains traditional spices served on a bed of rice</string>
+
+
+    <string name="food4">Soup</string>
+    <string name="ingredient4">Broth, Chicken, Noodles, Vegetables</string>
+    <string name="description4">Standard chicken noodle soup</string>
+
+
+
+    <string name="companyName">Food Inc</string>
+
+
+    <string name="description_button">Description</string>
+    <string name="ingredients_button">Ingredients</string>
+
+
+
+
+
+</resources>

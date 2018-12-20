@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/recipeAppLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        tools:text="@string/companyName" />
+
+    <Button
+        android:id="@+id/pizzaButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/food1" />
+
+    <Button
+        android:id="@+id/cookieButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/food2" />
+
+    <Button
+        android:id="@+id/curryButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/food3" />
+
+    <Button
+        android:id="@+id/soupButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/food4" />
+</LinearLayout>
